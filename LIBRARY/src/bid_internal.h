@@ -37,6 +37,7 @@
 
 #include "bid_conf.h"
 #include "bid_functions.h"
+#include <stdlib.h>
 
 #define __BID_INLINE__ static __inline
 
